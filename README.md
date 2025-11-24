@@ -6,6 +6,8 @@ A lightweight Retrieval-Augmented Generation (RAG) chatbot that answers knowledg
 
 ![App Screenshot](Screenshot_1.png)
 
+![App Screenshot](Screenshot_2.png)
+
 
 ## 📌 Features
 
