@@ -1,6 +1,6 @@
 # Avivo Mini-RAG Telegram Bot
 
-A lightweight Retrieval-Augmented Generation (RAG) chatbot that answers knowledge base questions via Telegram. Combines Python, FAISS for vector search, sentence-transformers for embeddings, a fast LLM API (OpenAI or Hugging Face), and an interactive Telegram interface.
+A lightweight Retrieval-Augmented Generation (RAG) chatbot that answers knowledge base questions via Telegram. Combines Python, FAISS for vector search, sentence-transformers for embeddings, a fast LLM API from Hugging Face and an interactive Telegram interface.
 
 ---
 
