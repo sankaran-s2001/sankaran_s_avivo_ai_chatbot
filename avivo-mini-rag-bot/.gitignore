@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+kb/*.ipynb
+
+# Model/embedding cache
+*.pkl
+*.bin
+*.npy
+
+# System files
+.DS_Store
+Thumbs.db
